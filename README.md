@@ -1,4 +1,4 @@
-# Sinkhorn_Autoencoder_point_cloud
+
 # Permutation-Invariant 3D Point-Cloud Sinkhorn Autoencoders
 
 **PyTorch | Optimal Transport | Wasserstein Autoencoders | ModelNet40**
